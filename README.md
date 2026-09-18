@@ -13,6 +13,8 @@ Le dépot contient des fichiers correspondant aux différents exercices, classé
 3. Effectuer des demandes de fusion auprès de vos camarades pour comparer et fusionner vos réponses et garder les meilleures.
 4. En fin de journée, faire une demande de fusion dans le dépot d'origine (https://github.com/aboutofpluto/e3-imac-td-shell-2026) qui contiendra donc la correction ultime !
 
+_Suggestion_ : vous pouvez vous mettre par groupes de 2 sur chaque dépôt afin de créer et manipuler des branches.
+
 ## Indications complémentaires
 
 Par soucis de simplification et d'uniformité, la ligne de commande à utiliser pour les exercices est `bash` : https://www.gnu.org/software/bash/
